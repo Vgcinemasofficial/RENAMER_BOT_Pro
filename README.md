@@ -36,11 +36,11 @@ Telegram File Renamer Bot
 * `/broadcast` reply to message
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/RENAMER_BOT_V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vgcinemas/RENAMER_BOT_V2)
 
 ## License
 ````
-lntechnical2/RENAMER_BOT is licensed under the
+VGCINEMAS/RENAMER_BOT is licensed under the
 Apache License 2.0
 A permissive license whose main conditions require preservation of copyright and license notices.
 Contributors provide an express grant of patent rights.
@@ -49,11 +49,11 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/VGCINEMAS">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> YouTube </p>
+<a href="https://t.me/VGCINEMAS">
+   <p> Telegram </p>
   </a>
 
 ## Credits
